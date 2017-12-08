@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>testValueIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="testValueIcon">
+            <g id="icon">
+                <circle id="Oval-Copy-2" fill="#2B3681" cx="50" cy="50" r="50"></circle>
+                <g id="Abc-123" transform="translate(14.000000, 29.000000)" fill="#FFFFFF">
+                    <text font-family="RobotoSlab-Bold, Roboto Slab" font-size="20" font-weight="bold" line-spacing="20">
+                        <tspan x="34" y="21">Abc</tspan>
+                        <tspan x="36.8417969" y="41">123</tspan>
+                    </text>
+                    <path d="M0,8 L30,8 L30,18 L0,18 L0,8 Z M0,24 L30,24 L30,34 L0,34 L0,24 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

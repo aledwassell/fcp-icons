@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>goToIvrIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="goToIvrIcon">
+            <g id="icon">
+                <circle id="Oval-Copy-10" fill="#9FC831" cx="50" cy="50" r="50"></circle>
+                <g id="return-arrow" transform="translate(15.000000, 15.000000)">
+                    <path d="M10.7937283,60 C29.1053602,60 42.4716073,60 50.8924696,60 C76.1713325,60 75.656467,18.4353299 49.6343316,18.6393229 C37.9694734,18.5033275 25.3671152,18.4353299 11.8272569,18.4353299" id="Path-3" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="bevel"></path>
+                    <path d="M0.860176238,16.7853769 L16.0830305,0.68848323 C16.5046729,0.24263165 17.2079158,0.223006268 17.6537674,0.644648712 C17.8756885,0.854519878 18.0014273,1.14649224 18.0014273,1.45193441 L18.0014273,33.6457218 C18.0014273,34.2593716 17.5039659,34.756833 16.8903162,34.756833 C16.584874,34.756833 16.2929016,34.6310942 16.0830305,34.409173 L0.860176238,18.3122793 C0.455075686,17.8839194 0.455075686,17.2137369 0.860176238,16.7853769 L0.860176238,16.7853769 Z" id="Triangle-5" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

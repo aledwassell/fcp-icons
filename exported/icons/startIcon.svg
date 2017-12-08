@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>startIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="startIcon">
+            <g id="icon">
+                <circle id="Oval-Copy" fill="#006837" cx="50" cy="50" r="50"></circle>
+                <path d="M61.4641016,26 L89.1769145,74 L89.1769145,74 C90.281484,75.9131705 89.6259834,78.3595321 87.7128129,79.4641016 C87.1047361,79.8151749 86.4149596,80 85.7128129,80 L30.2871871,80 L30.2871871,80 C28.0780481,80 26.2871871,78.209139 26.2871871,76 C26.2871871,75.2978533 26.4720121,74.6080768 26.8230855,74 L54.5358984,26 L54.5358984,26 C55.6404679,24.0868295 58.0868295,23.4313289 60,24.5358984 C60.6080768,24.8869717 61.1130283,25.3919232 61.4641016,26 Z" id="Polygon" fill="#FFFFFF" transform="translate(58.000000, 50.000000) rotate(-270.000000) translate(-58.000000, -50.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
